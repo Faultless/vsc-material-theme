@@ -79,6 +79,15 @@
       }
     },
     {
+      "name": "Keyword Operators",
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "fontStyle": "normal"
+      }
+    },
+    {
       "name": "Operator, Misc",
       "scope": [
         "keyword.control",

@@ -83,13 +83,6 @@
       }
     ]
   },
-  "badges": [
-    {
-      "url": "",
-      "href": "https://github.com/faultless/vsc-material-theme/issues",
-      "description": "Open issues"
-    }
-  ],
   "devDependencies": {
     "@types/chalk": "0.4.31",
     "@types/gulp": "4.0.4",

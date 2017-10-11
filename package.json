@@ -4,7 +4,7 @@
   "description":
     "A fork of vsc-material-theme introducing syntactical sugar (like italicizing keywords)",
   "version": "0.0.1",
-  "publisher": "Equinusocio",
+  "publisher": "Serge",
   "license": "Apache-2.0",
   "icon": "logo.png",
   "galleryBanner": {

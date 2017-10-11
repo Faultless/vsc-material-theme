@@ -5,6 +5,7 @@
 [![GitHub tag](https://img.shields.io/github/release/equinusocio/vsc-material-theme.svg?style=flat-square)](https://github.com/equinusocio/vsc-material-theme/releases)   [![GitHub tag](https://img.shields.io/github/issues/equinusocio/vsc-material-theme.svg?style=flat-square)](https://github.com/equinusocio/vsc-material-theme/issues)
 <a href="https://code.visualstudio.com/updates/v1_12"><img src="https://img.shields.io/badge/VS_Code-v1.12+-373277.svg?style=flat-square"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme"><img src="https://vsmarketplacebadge.apphb.com/installs/Equinusocio.vsc-material-theme.svg?style=flat-square"/></a>
 
+> This fork aims to add some special font transforms (italicizing mainly) to important keywords.
 
 The most epic theme meet Visual Studio Code. Please note that this theme is still in Beta (β) release. You can help by reporting issues [here](https://github.com/equinusocio/vsc-material-theme/issues)
 

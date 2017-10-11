@@ -99,8 +99,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "{{variant.scheme.base.blue}}",
-        "fontStyle": "italic"
+        "foreground": "{{variant.scheme.base.blue}}"
       }
     },
     {

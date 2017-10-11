@@ -119,8 +119,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#82AAFF",
-        "fontStyle": "italic"
+        "foreground": "#82AAFF"
       }
     },
     {

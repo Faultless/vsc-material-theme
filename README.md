@@ -21,16 +21,8 @@ Launch *Quick Open*
 
 Paste the following command and press `Enter`:
 ```shell
-ext install vsc-material-theme
+ext install vsc-material-theme-italicize
 ```
-
-#### Packaged VSIX Extension
-
-[Download the latest .vsix release](https://github.com/faultless/vsc-material-theme/releases/latest)  file from the GitHub repository and install it from the command line
-```shell
-code --install-extension vsc-material-theme-*.*.*.vsix
-```
-or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
 
 ##### GitHub Repository Clone
 
@@ -55,7 +47,7 @@ Launch *Quick Open*,
 
 Type `theme` anc choose `Preferences: Color Theme`, then select Material Theme from the list.
 
-This theme provide differents color variants, to change the active theme variant type `Material Theme` and choose `Material Theme: Settings`, then select `Change color variant` and pick one theme from the list.
+This theme provide differents color variants, to change the active theme variant type `Material Theme` and choose `Material theme italicize: Settings`, then select `Change color variant` and pick one theme from the list.
 
 ## Activate File Icons
 
@@ -72,7 +64,7 @@ Launch *Quick Open*,
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `Shift+⌘+P`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
 
-Type `Material Theme` and choose `Material Theme: Settings`, then select `Change accent color` and pick one color from the list.
+Type `Material Theme` and choose `Material theme italicize: Settings`, then select `Change accent color` and pick one color from the list.
 
 
 # Recommended settings for a better experience:
@@ -88,7 +80,7 @@ Type `Material Theme` and choose `Material Theme: Settings`, then select `Change
 
 # Acknowledgements
 - [@OctoD](https://github.com/balanceiskey) for the typescript theme builder.
-
+- Mattia Astorino and Paolo Roth as this is just a fork of [their work](https://github.com/equinusocio/vsc-material-theme)
 
 <p align="center">Copyright &copy; 2017 Mattia Astorino and Paolo Roth</p>
 

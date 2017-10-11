@@ -69,10 +69,9 @@
       }
     },
     {
-      "name": "Keyword, Storage",
+      "name": "Keyword",
       "scope": [
-        "keyword",
-        "storage"
+        "keyword"
       ],
       "settings": {
         "fontStyle": "italic"

@@ -2,15 +2,15 @@
 <p align="center"><img width="620px" src="https://i.imgur.com/77xXWrA.jpg"/></p>
 <p align="center"><img width="450px" src="https://i.imgur.com/JXb5aRO.jpg"></p>
 
-[![GitHub tag](https://img.shields.io/github/release/equinusocio/vsc-material-theme.svg?style=flat-square)](https://github.com/equinusocio/vsc-material-theme/releases)   [![GitHub tag](https://img.shields.io/github/issues/equinusocio/vsc-material-theme.svg?style=flat-square)](https://github.com/equinusocio/vsc-material-theme/issues)
-<a href="https://code.visualstudio.com/updates/v1_12"><img src="https://img.shields.io/badge/VS_Code-v1.12+-373277.svg?style=flat-square"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme"><img src="https://vsmarketplacebadge.apphb.com/installs/Equinusocio.vsc-material-theme.svg?style=flat-square"/></a>
+[![GitHub tag](https://img.shields.io/github/release/faultless/vsc-material-theme.svg?style=flat-square)](https://github.com/faultless/vsc-material-theme/releases)   [![GitHub tag](https://img.shields.io/github/issues/faultless/vsc-material-theme.svg?style=flat-square)](https://github.com/faultless/vsc-material-theme/issues)
+<a href="https://code.visualstudio.com/updates/v1_12"><img src="https://img.shields.io/badge/VS_Code-v1.12+-373277.svg?style=flat-square"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=Serge.vsc-material-theme-italicize"><img src="https://vsmarketplacebadge.apphb.com/installs/Serge.vsc-material-theme-italicize.svg?style=flat-square"/></a>
 
 > This fork aims to add some special font transforms (italicizing mainly) to important keywords.
 
-The most epic theme meet Visual Studio Code. Please note that this theme is still in Beta (β) release. You can help by reporting issues [here](https://github.com/equinusocio/vsc-material-theme/issues)
+The most epic theme meet Visual Studio Code. Please note that this theme is still in Beta (β) release. You can help by reporting issues [here](https://github.com/faultless/vsc-material-theme/issues)
 
 # Getting started
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme).
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Serge.vsc-material-theme-italicize).
 
 ## Installation
 
@@ -26,7 +26,7 @@ ext install vsc-material-theme
 
 #### Packaged VSIX Extension
 
-[Download the latest .vsix release](https://github.com/equinusocio/vsc-material-theme/releases/latest)  file from the GitHub repository and install it from the command line
+[Download the latest .vsix release](https://github.com/faultless/vsc-material-theme/releases/latest)  file from the GitHub repository and install it from the command line
 ```shell
 code --install-extension vsc-material-theme-*.*.*.vsix
 ```
@@ -40,9 +40,9 @@ Depending on your platform it is located in the following folders:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> **macOs** `~/.vscode/extensions`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
 
-Clone the Material Theme repository as `Equinusocio.vsc-material-theme`:
+Clone the Material Theme repository as `Serge.vsc-material-theme-italicize`:
 ```shell
-git clone https://github.com/equinusocio/vsc-material-theme.git Equinusocio.vsc-material-theme
+git clone https://github.com/faultless/vsc-material-theme.git Serge.vsc-material-theme-italicize
 ```
 
 
@@ -86,13 +86,10 @@ Type `Material Theme` and choose `Material Theme: Settings`, then select `Change
     "editor.fontLigatures": true,
 ```
 
-# Other resources
-- **AppIcon:** [Download](https://github.com/equinusocio/vsc-material-theme/files/989048/vsc-material-theme-appicon.zip) the official Material Theme app icon for Visual Studio code
-
 # Acknowledgements
 - [@OctoD](https://github.com/balanceiskey) for the typescript theme builder.
 
 
-<p align="center"> <img src="https://equinusocio.gallerycdn.vsassets.io/extensions/equinusocio/vsc-material-theme/0.0.14/1494970083238/Microsoft.VisualStudio.Services.Icons.Default" width=16 height=16/> Copyright &copy; 2017 Mattia Astorino and Paolo Roth</p>
+<p align="center">Copyright &copy; 2017 Mattia Astorino and Paolo Roth</p>
 
 <p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.png?style=flat-square"/></a> <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.png?style=flat-square"/></a></p>

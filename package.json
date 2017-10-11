@@ -46,7 +46,7 @@
   "contributes": {
     "commands": [
       {
-        "category": "Material theme",
+        "category": "Material theme italicize",
         "command": "material.theme.config",
         "title": "Settings"
       }
@@ -69,7 +69,7 @@
     },
     "themes": [
       {
-        "label": "Material Theme",
+        "label": "Material Theme Italicize",
         "uiTheme": "vs-dark",
         "path": "./themes/Material-Theme-Default.json"
       }

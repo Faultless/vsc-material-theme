@@ -69,9 +69,10 @@
       }
     },
     {
-      "name": "Keyword",
+      "name": "Keyword, Storage",
       "scope": [
-        "keyword"
+        "keyword",
+        "storage"
       ],
       "settings": {
         "fontStyle": "italic"
@@ -377,7 +378,7 @@
       "name": "Decorators",
       "scope": [
         "tag.decorator.js entity.name.tag.js",
-        "tag.decorator.js punctuation.definition.tag.js"
+        "tag.decorator.js"
       ],
       "settings": {
         "fontStyle": "italic",

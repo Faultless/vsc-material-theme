@@ -52,8 +52,8 @@
       }
     },
     {
-      "name": "Keyword",
-      "scope": ["keyword"],
+      "name": "Keyword, Storage",
+      "scope": ["keyword", "storage"],
       "settings": {
         "fontStyle": "italic"
       }
@@ -319,10 +319,7 @@
     },
     {
       "name": "Decorators",
-      "scope": [
-        "tag.decorator.js entity.name.tag.js",
-        "tag.decorator.js punctuation.definition.tag.js"
-      ],
+      "scope": ["tag.decorator.js entity.name.tag.js", "tag.decorator.js"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "{{variant.scheme.base.blue}}"

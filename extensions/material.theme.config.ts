@@ -27,7 +27,7 @@ export function activate(context: vscode.ExtensionContext) {
   }
 
   // registering the command
-  let command = vscode.commands.registerCommand('material.theme.config', () => {
+  let command = vscode.commands.registerCommand('material.theme.italicize.config', () => {
     // the user is going to choose what aspect of theme to config
     vscode.window.showQuickPick(Object.keys(OPTIONS)).then(response => {
       // switching selected option

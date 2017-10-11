@@ -3,7 +3,7 @@
   "displayName": "Material Theme Italicize",
   "description":
     "A fork of vsc-material-theme introducing syntactical sugar (like italicizing keywords)",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "Serge",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -39,7 +39,7 @@
     "postinstall": "node ./node_modules/vscode/bin/install",
     "changelog": "gulp changelog",
     "bump": "gulp bump",
-    "build:gulpfile": "tsc"
+    "tsc": "tsc"
   },
   "categories": ["Themes", "Other"],
   "activationEvents": ["*"],

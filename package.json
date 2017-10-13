@@ -3,7 +3,7 @@
   "displayName": "Material Theme Italicize",
   "description":
     "A fork of vsc-material-theme introducing syntactical sugar (like italicizing keywords)",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "Serge",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -72,7 +72,7 @@
       {
         "label": "Material Theme Italicize",
         "uiTheme": "vs-dark",
-        "path": "./themes/Material-Theme-Default.json"
+        "path": "./themes/Material-Theme-Darker.json"
       }
     ],
     "iconThemes": [

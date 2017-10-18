@@ -21,38 +21,38 @@ export interface IDefaultsThemeIcons {
     iconDefinitions: {
       _folder_open: {
         iconPath: string;
-      }
+      };
       _folder_open_build: {
         iconPath: string;
-      }
+      };
       _folder_dark: {
         iconPath: string;
-      }
+      };
       _folder_dark_build: {
         iconPath: string;
-      }
-      "_file_folder-build": {
+      };
+      '_file_folder-build': {
         iconPath: string;
-      }
+      };
       _file_folder: {
         iconPath: string;
-      }
-    }
-  }
+      };
+    };
+  };
 }
 
 export interface IDefaultsThemeVariant {
   [index: string]: string;
   Darker: string;
-  Default: string;
-  Light: string;
   Palenight: string;
+  DarkerHighContrast: string;
+  Default: string;
+  DefaultHighContrast: string;
+  Light: string;
+  LightHighContrast: string;
+  PalenightHighContrast: string;
 }
 
-export interface IDefaultsThemeVariantColours extends IDefaultsThemeVariant {
+export interface IDefaultsThemeVariantColours extends IDefaultsThemeVariant {}
 
-}
-
-export interface IDefaultsThemeVariantUITheme extends IDefaultsThemeVariant {
-
-}
+export interface IDefaultsThemeVariantUITheme extends IDefaultsThemeVariant {}

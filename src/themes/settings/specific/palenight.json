@@ -4,6 +4,8 @@
   "type": "dark",
   "scheme": {
     "background": "#292D3E",
+    "backgroundAlt": "#292D3E",
+    "contrastBorder": "#292D3E",
     "comments": "#676E95",
     "caret": "#FFCC00",
     "findHighlight": "#FFCC00",
@@ -21,8 +23,10 @@
     "scrollbars": "#00000050",
     "scrollbarsHover": "#00000030",
     "statusbarForeground": "#676E95",
+    "sidebarBackground": "#292D3E",
     "sidebarForeground": "#676E95",
     "listHoverForeground": "#FFFFFF",
+    "listHoverBackground": "#292D3E",
     "tabActiveForeground": "#FFFFFF",
     "base": {
       "white": "#ffffff",

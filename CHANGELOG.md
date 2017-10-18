@@ -1,4 +1,4 @@
-<a name="0.0.9"></a>
+<a name="0.0.10"></a>
 ## 0.0.10 (2017-10-18)
 
 - Merge with upstream branch

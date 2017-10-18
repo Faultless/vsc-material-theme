@@ -18,7 +18,7 @@
     "Yellow": "#FFA000"
   },
   "changelog": {
-    "lastversion": "1.0.5"
+    "lastversion": "0.0.11"
   },
   "icons": {
     "theme": {
@@ -46,21 +46,6 @@
   },
   "themeVariants": {
     "Darker": "./themes/Material-Theme-Darker.json",
-    "Default": "./themes/Material-Theme-Default.json",
-    "Light": "./themes/Material-Theme-Lighter.json",
-    "Palenight": "./themes/Material-Theme-Palenight.json"
-  },
-  "themeVariantsColours": {
-    "Darker": "#424242",
-    "Default": "#4A616C",
-    "Light": "#90A4AE",
-    "Palenight": "#4E5579"
-  },
-  "themeVariantsUITheme": {
-    "Darker": "vs-dark",
-    "Default": "vs-dark",
-    "Light": "vs",
-    "Palenight": "vs-dark",
     "Darker High Contrast": "./themes/Material-Theme-Darker-High-Contrast.json",
     "Default": "./themes/Material-Theme-Default.json",
     "Default High Contrast":
